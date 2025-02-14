@@ -1,0 +1,6 @@
+@AtlanticApi_HostAddress = http://localhost:5183
+
+GET {{AtlanticApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
